@@ -1,2 +1,2 @@
-resource "null_resource" "example" "ioram" {
+resource "null_resource" "ioram" {
 }
